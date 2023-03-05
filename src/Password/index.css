@@ -1,0 +1,10 @@
+.each-list {
+  border: 1px #b6c3ca solid;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+}
+.delete-button {
+  background-color: transparent;
+  border: none;
+}
